@@ -1,1 +1,1 @@
-# typingspeed-taster
+# typingspeed-tester
